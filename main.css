@@ -1,0 +1,108 @@
+.headerStyle
+{
+    color: darkblue;
+    margin-left: 50%;
+  
+    
+}
+p{
+    text-align: justify;
+    margin-left: 25%;
+    column-count: 3;
+    column-rule: 4px dotted white;
+    column-gap: 25px;
+    
+}
+
+p:first-line
+{
+    color: crimson;
+    
+}
+
+p:first-letter
+{
+    color: blueviolet;
+    font-size: xx-large;
+}
+
+.imgStyle
+{
+ width:100px;
+    height: 100px;
+    float:left; 
+    border-radius: 50%;
+
+}
+
+section
+{
+    border: 1px round black;
+    width:80%;
+}
+
+
+
+article#menu,#logo
+{
+    width:25%;
+    float:left;
+}
+article#heading,#content
+{
+    width:70%;
+        margin-left: 30%;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    font-size: large;
+    margin-bottom: 2%;
+    
+}
+
+section#flashnews
+{
+    border:2px solid red;
+    width:90%;
+    height:50px;
+}
+
+body {
+    background-color: #eee;
+}
+
+*[role="form"] {
+    max-width: 530px;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 0.3em;
+}
+
+*[role="form"] h2 {
+    margin-left: 5em;
+    margin-bottom: 1em;
+}
+
+
+#photo::-webkit-file-upload-button{
+    background: black;
+    color: white;
+    border-radius: 50px 50px 50px 50px;
+}
+
+/*#photo1::-webkit-file-upload-button{
+    background: yellow;
+    color: black;
+    border-radius: 50px 50px 50px 50px;
+}*/
+/*input [type=file]
+{
+    background: black;
+    color: white;
+    border-radius: 50px 50px 50px 50px;
+}*/
