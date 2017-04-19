@@ -1,0 +1,7 @@
+Issues:
+1. welcome1.jsp mein session mein username
+2. reg and login par autoretrive (2nd level) karwana just like in modifyProfile
+3. email send karna on forgotton
+4. shuffling of 2-level
+5. database mein null value dekhna
+6. views mein specific file lena
